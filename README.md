@@ -1,6 +1,6 @@
-# Recommender Systems for Interactive Explanations
+# Argumentation as a Framework for Interactive Explanations for Recommendations
 
-Source code, data, and supplementary materials for Recommender Systems for Interactive Explanations.
+Source code, data, and supplementary materials for `Argumentation as a Framework for Interactive Explanations for Recommendations`.
 
 ## Project structure
 
